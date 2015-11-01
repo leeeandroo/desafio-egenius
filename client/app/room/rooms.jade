@@ -1,0 +1,25 @@
+div(ng-include='"components/navbar/navbar.html"')
+
+header#banner.hero-unit
+  .container
+    h1 Chat eGenius
+    img(src='assets/images/egenius.png', alt='eGenius')
+
+.container
+  .row
+    .col-lg-12
+      h1.page-header Salas disponíveis:
+      ul.nav.nav-tabs.nav-stacked.col-md-4.col-lg-4.col-sm-6(ng-repeat='room in rooms')
+        li
+          a(href='/chat/{{room._id}}', tooltip='{{room.info}}')
+            | {{room.name}}
+            
+
+  form.room-form
+    p.input-group
+      input.form-control(type='text', placeholder='Adicionar nova sala.', ng-model='newRoom')
+      span.input-group-btn
+        button.btn.btn-primary(type='submit', ng-click='addRoom()') Adicionar sala
+
+footer.footer
+  .container

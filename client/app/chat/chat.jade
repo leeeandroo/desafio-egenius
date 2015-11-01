@@ -1,0 +1,38 @@
+div(ng-include='"components/navbar/navbar.html"')
+
+header#banner.hero-unit
+  .container
+    h1 Chat eGenius
+    img(src='assets/images/egenius.png', alt='eGenius')
+
+.container
+  .row
+    .col-lg-12
+      h1.page-header {{ room.name }}
+
+      div.chat
+        section.scroll-pane#autoscroll
+          ul
+            li(ng-repeat="message in messages", ng-class="(message.author==getCurrentUser.name) ? 'mine' : ''")
+              div.message
+                span 
+                  strong.message-author {{ message.author }} 
+                  {{ message.date | date: 'h:mm' }}
+                p {{ message.body }}
+
+        footer
+          form
+            p.input-group
+              input.form-control(placeholder="Digite sua mensagem aqui...", ng-model="newMessage", ng-trim="false", autofocus)
+              span.input-group-btn
+                button.btn.btn-primary(type='submit', ng-click='sendMessage()') Enviar mensagem
+
+
+      
+
+footer.footer
+  .container
+
+
+
+

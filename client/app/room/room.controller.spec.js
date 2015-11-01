@@ -5,6 +5,7 @@ describe('Controller: RoomCtrl', function () {
   // load the controller's module
   beforeEach(module('chatApp'));
   beforeEach(module('socketMock'));
+  beforeEach(module('room.html'));
 
   var RoomCtrl,
       scope,
@@ -20,8 +21,7 @@ describe('Controller: RoomCtrl', function () {
     RoomCtrl = $controller('RoomCtrl', {
       $scope: scope
     });
-  }));
-  
+  }));  
 
   it('should attach a list of rooms to the scope', function () {
     $httpBackend.flush();    

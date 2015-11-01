@@ -6,7 +6,7 @@ describe('Controller: ChatCtrl', function () {
   beforeEach(module('chatApp'));
 
   var ChatCtrl, scope;
-
+  
   // Initialize the controller and a mock scope
   beforeEach(inject(function ($controller, $rootScope) {
     scope = $rootScope.$new();
@@ -15,7 +15,4 @@ describe('Controller: ChatCtrl', function () {
     });
   }));
 
-  it('should ...', function () {
-    expect(1).toEqual(1);
-  });
 });

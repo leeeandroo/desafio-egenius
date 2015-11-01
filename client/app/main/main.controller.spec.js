@@ -2,5 +2,4 @@
 
 describe('Controller: MainCtrl', function () {
 
-
 });

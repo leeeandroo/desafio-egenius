@@ -19,7 +19,7 @@ angular.module('chatApp')
 
 
 	    $scope.scrollToBottom = function(){	    	
-			var scroller = document.getElementById("autoscroll");				
+			var scroller = document.getElementById('autoscroll');				
 			scroller.scrollTop = scroller.scrollHeight;						    
 	    };
 

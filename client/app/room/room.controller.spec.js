@@ -18,6 +18,7 @@ describe('Controller: RoomCtrl', function () {
       .respond([{ 'name' : 'Room 01' }, { 'name' : 'Room 02' }]);
 
     scope = $rootScope.$new();
+    
     RoomCtrl = $controller('RoomCtrl', {
       $scope: scope
     });

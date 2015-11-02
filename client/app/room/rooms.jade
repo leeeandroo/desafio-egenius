@@ -15,9 +15,9 @@ header#banner.hero-unit
             | {{room.name}}
             
 
-  form.room-form
+  form.room-form(role='form', name='form')
     p.input-group
-      input.form-control(type='text', placeholder='Adicionar nova sala.', ng-model='newRoom')
+      input.form-control(type='text', placeholder='Adicionar nova sala.', ng-model='newRoom', required='true')
       span.input-group-btn
         button.btn.btn-primary(type='submit', ng-click='addRoom()') Adicionar sala
 

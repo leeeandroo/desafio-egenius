@@ -4,517 +4,49 @@
 		"selected_items":
 		[
 			[
-				"mode",
-				"modelName"
+				"id",
+				"_id"
 			],
 			[
-				"chat",
-				"chatData"
-			],
-			[
-				"fuc",
-				"function"
-			],
-			[
-				"ex",
-				"exists"
-			],
-			[
-				"max",
-				"max_length"
-			],
-			[
-				"en",
-				"enterprise_group"
-			],
-			[
-				"peso",
-				"peso_2〔variable〕"
-			],
-			[
-				"nps",
-				"nps_value〔variable〕"
-			],
-			[
-				"act",
-				"actual_campaign〔variable〕"
-			],
-			[
-				"campai",
-				"campaign__pk"
-			],
-			[
-				"entr",
-				"enterprise_group__pk"
-			],
-			[
-				"text",
-				"textarea〔variable〕"
-			],
-			[
-				"actu",
-				"actual_nps〔variable〕"
-			],
-			[
-				"actua",
-				"actual_nps〔variable〕"
-			],
-			[
-				"ac",
-				"actual_nps〔variable〕"
-			],
-			[
-				"gru",
-				"grupo_empresa__pk"
-			],
-			[
-				"Entr",
-				"EnterpriseGroup"
-			],
-			[
-				"v",
-				"value"
-			],
-			[
-				"pa",
-				"padding-top"
-			],
-			[
-				"gr",
-				"gruponps〔module〕"
-			],
-			[
-				"reg",
-				"region_name〔variable〕"
-			],
-			[
-				"exc",
-				"except〔keyword〕"
-			],
-			[
-				"has",
-				"hasClass〔function〕"
-			],
-			[
-				"docu",
-				"document_type"
-			],
-			[
-				"stat",
-				"status_reembolso"
-			],
-			[
-				"color-li",
-				"color-lightGray"
-			],
-			[
-				"color-",
-				"color-red"
-			],
-			[
-				"cate",
-				"categories"
-			],
-			[
-				"marg",
-				"margin-bottom"
-			],
-			[
-				"pad",
-				"padding-top"
-			],
-			[
-				"HA",
-				"HAYSTACK_REMOVE_WORDS  (variable)"
-			],
-			[
-				"Image",
-				"ImageField"
-			],
-			[
-				"sele",
-				"selectedPlan"
-			],
-			[
-				"q",
-				"get_queryset"
-			],
-			[
-				"db",
-				"db_table"
-			],
-			[
-				"ver",
-				"verbose_name"
-			],
-			[
-				"bor",
-				"border"
-			],
-			[
-				"mid",
-				"middle"
-			],
-			[
-				"mar",
-				"margin"
-			],
-			[
-				"Cate",
-				"Categories5to19  (variable)"
-			],
-			[
-				"data",
-				"dataBubble"
-			],
-			[
-				"get",
-				"getDay  (function)"
-			],
-			[
-				"border",
-				"border-bottom"
-			],
-			[
-				"le",
-				"left"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"inlin",
-				"inline-block"
-			],
-			[
-				"dis",
-				"display"
-			],
-			[
-				"tot",
-				"totalOperacao"
-			],
-			[
-				"juro",
-				"jurosMes"
-			],
-			[
-				"valor",
-				"valorPrestacoes"
-			],
-			[
-				"qtd",
-				"qtdEstoque"
-			],
-			[
-				"juros",
-				"jurosAno"
-			],
-			[
-				"ju",
-				"jurosMes"
-			],
-			[
-				"valo",
-				"valorPrestacoes"
-			],
-			[
-				"qt",
-				"qtdEstoque"
-			],
-			[
-				"preco",
-				"precoVista"
-			],
-			[
-				"vali",
-				"validadePromocao"
-			],
-			[
-				"z-",
-				"z-index"
-			],
-			[
-				"fun",
-				"function"
-			],
-			[
-				"cap",
-				"campaign"
-			],
-			[
-				"Evalu",
-				"Evaluation"
-			],
-			[
-				"user",
-				"users_evaluation"
-			],
-			[
-				"ev",
-				"evaluation_criteria"
-			],
-			[
-				"wi",
-				"width"
-			],
-			[
-				"end",
-				"endDate"
-			],
-			[
-				"press",
-				"pressdata"
-			],
-			[
-				"pressres",
-				"pressresults"
-			],
-			[
-				"Answer",
-				"Answers"
-			],
-			[
-				"ri",
-				"right"
-			],
-			[
-				"rec",
-				"reclameaqui_data"
-			],
-			[
-				"answ",
-				"Answers"
-			],
-			[
-				"comp",
-				"company"
-			],
-			[
-				"inli",
-				"inline-block"
-			],
-			[
-				"obje",
-				"objects"
-			],
-			[
-				"compa",
-				"company"
-			],
-			[
-				"Mar",
-				"MarketingIndicatorsCompany"
-			],
-			[
-				"health",
-				"healthprofile"
-			],
-			[
-				"yer",
-				"year"
-			],
-			[
-				"top",
-				"topofmind_id"
-			],
-			[
-				"to",
-				"top_of_mind"
-			],
-			[
-				"exce",
-				"except"
-			],
-			[
-				"Top",
-				"TopOfMind"
-			],
-			[
-				"facebook_",
-				"facebook_datas"
-			],
-			[
-				"he",
-				"height"
-			],
-			[
-				"fac",
-				"facebook_data__pk"
-			],
-			[
-				"item",
-				"item_sex_age"
-			],
-			[
-				"sorte",
-				"sorted_list"
-			],
-			[
-				"faceb",
-				"FacebookDataState"
-			],
-			[
-				"las",
-				"latest"
-			],
-			[
-				"Facebo",
-				"FacebookData"
-			],
-			[
-				"Char",
-				"CharField"
-			],
-			[
-				"fa",
-				"fans_city"
-			],
-			[
-				"sex",
-				"sex_type"
-			],
-			[
-				"Age",
-				"AgeType"
-			],
-			[
-				"Sex",
-				"SexType"
-			],
-			[
-				"Ch",
-				"CharField"
-			],
-			[
-				"media",
-				"mediabuzz"
-			],
-			[
-				"MediaBuzz",
-				"MediaBuzz_table"
-			],
-			[
-				"Media",
-				"MediaBuzzData"
-			],
-			[
-				"Medi",
-				"MediaBuzzMentions"
-			],
-			[
-				"ShareOf",
-				"ShareOfVoiceItem"
-			],
-			[
-				"date",
-				"datetime  (class)"
-			],
-			[
-				"mont",
-				"monthrange"
-			],
-			[
-				"Share",
-				"ShareOfVoice_table"
-			],
-			[
-				"inve",
-				"investment_data"
-			],
-			[
-				"DoesNo",
-				"DoesNotExist"
-			],
-			[
-				"da",
-				"date_ref"
-			],
-			[
-				"mobi",
-				"mobihealth_item"
-			],
-			[
-				"Mobi",
-				"MobiHealthItem"
-			],
-			[
-				"terms",
-				"termsdata"
-			],
-			[
-				"obj",
-				"objects"
-			],
-			[
-				"Trends",
-				"TrendsData"
-			],
-			[
-				"Trenda",
-				"TrendDataItem"
-			],
-			[
-				"Trend",
-				"TrendDataItem"
-			],
-			[
-				"trends",
-				"trendsdata"
-			],
-			[
-				"start",
-				"start_date"
-			],
-			[
-				"visi",
-				"visitshare_data"
-			],
-			[
-				"C",
-				"CharField"
-			],
-			[
-				"In",
-				"IntegerField"
-			],
-			[
-				"VisitSha",
-				"VisitShareData"
-			],
-			[
-				"Date",
-				"DateField"
-			],
-			[
-				"Cred",
-				"CredentialsField"
-			],
-			[
-				"cre",
-				"CredentialsModel"
-			],
-			[
-				"uni",
-				"unique_visitors"
-			],
-			[
-				"re",
-				"request"
-			],
-			[
-				"goa",
-				"goalNumber"
-			],
-			[
-				"marketing",
-				"marketingintelligence  (module)"
+				"Ro",
+				"RoomController"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "client/app/room/room.controller.spec.js",
+			"settings":
+			{
+				"buffer_size": 1079,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 2963,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/chat/chat.controller.spec.js",
+			"settings":
+			{
+				"buffer_size": 1582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/room/rooms.jade",
+			"settings":
+			{
+				"buffer_size": 752,
+				"line_ending": "Unix"
+			}
+		},
 		{
 			"file": "client/app/chat/chat.controller.js",
 			"settings":
@@ -522,56 +54,20 @@
 				"buffer_size": 1126,
 				"line_ending": "Unix"
 			}
-		},
-		{
-			"file": "client/app/chat/chat.jade",
-			"settings":
-			{
-				"buffer_size": 970,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "client/app/chat/chat.less",
-			"settings":
-			{
-				"buffer_size": 339,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "client/app/app.less",
-			"settings":
-			{
-				"buffer_size": 570,
-				"line_ending": "Unix"
-			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 104.0,
+		"height": 0.0,
 		"selected_items":
 		[
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"packa",
-				"Preferences: Browse Packages"
-			],
-			[
-				"Package Control: install",
-				"Package Control: Install Package"
-			]
 		],
-		"width": 400.0
+		"width": 0.0
 	},
 	"console":
 	{
-		"height": 356.0
+		"height": 0.0
 	},
 	"distraction_free":
 	{
@@ -584,146 +80,51 @@
 	},
 	"file_history":
 	[
-		"/D/Jobs/desafio-egenius/client/app/chat/chat.directive.js",
-		"/D/Jobs/desafio-egenius/client/index.html",
-		"/D/Jobs/desafio-egenius/server/api/chat/chat.socket.js",
-		"/D/Jobs/desafio-egenius/client/components/socket/socket.service.js",
-		"/D/Jobs/desafio-egenius/client/app/chat/chat.js",
-		"/D/Jobs/desafio-egenius/client/app/app.js",
-		"/D/Jobs/desafio-egenius/server/api/room/index.js",
-		"/D/Jobs/desafio-egenius/server/api/chat/chat.controller.spec.js",
-		"/D/Jobs/desafio-egenius/server/api/chat/chat.controller.js",
-		"/D/Jobs/desafio-egenius/server/api/chat/chat.model.js",
-		"/D/Jobs/desafio-egenius/client/app/room/rooms.jade",
-		"/D/Jobs/desafio-egenius/server/api/chat/chat.model.spec.js",
-		"/D/Jobs/desafio-egenius/server/api/room/room.controller.js",
+		"/D/Jobs/desafio-egenius/client/components/ui-router/ui-router.mock.js",
+		"/D/Jobs/desafio-egenius/client/app/room/room.controller.js",
+		"/D/Jobs/desafio-egenius/client/app/room/room.js",
 		"/D/Jobs/desafio-egenius/server/api/room/room.controller.spec.js",
-		"/D/Jobs/desafio-egenius/server/api/user/user.model.js",
-		"/D/Jobs/desafio-egenius/client/app/chat/chat.jade",
-		"/D/Jobs/desafio-egenius/client/app/chat/chat.less",
+		"/D/Jobs/amil-mail-queue/client/app/main/main.controller.spec.js",
+		"/D/Jobs/desafio-egenius/client/app/room/room.jade",
+		"/D/Jobs/desafio-egenius/client/app/room/room.controller.spec.js",
+		"/D/Jobs/desafio-egenius/client/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js",
 		"/D/Jobs/desafio-egenius/client/app/main/main.controller.js",
+		"/D/Jobs/desafio-egenius/client/app/main/main.controller.spec.js",
+		"/D/Jobs/desafio-egenius/client/index.html",
 		"/D/Jobs/desafio-egenius/client/app/app.less",
-		"/D/Jobs/desafio-egenius/server/api/chat/index.js",
-		"/D/Jobs/desafio-egenius/server/api/room/room.model.spec.js",
-		"/D/Jobs/desafio-egenius/server/api/room/room.spec.js",
-		"/D/Jobs/desafio-egenius/server/api/user/user.model.spec.js",
+		"/D/Jobs/desafio-egenius/client/app/main/main.less",
+		"/D/Jobs/desafio-egenius/server/api/thing/index.js",
+		"/D/Jobs/desafio-egenius/karma.conf.js",
+		"/D/Jobs/desafio-egenius/client/app/main/main.jade",
+		"/D/Jobs/desafio-egenius/server/api/thing/thing.spec.js",
+		"/D/Jobs/desafio-egenius/server/api/thing/thing.socket.js",
+		"/D/Jobs/desafio-egenius/server/api/thing/thing.model.js",
+		"/D/Jobs/desafio-egenius/client/app/main/main.js",
+		"/D/Jobs/desafio-egenius/client/app/account/account.js",
+		"/D/Jobs/desafio-egenius/server/config/seed.js",
 		"/D/Jobs/desafio-egenius/server/api/room/room.model.js",
-		"/D/Jobs/desafio-egenius/server/auth/auth.service.js",
-		"/C/Jobs/desafio-egenius/server/api/chat/chat.spec.js",
-		"/C/Jobs/desafio-egenius/server/api/room/room.model.js",
-		"/C/Jobs/desafio-egenius/server/api/user/user.model.spec.js",
-		"/C/Jobs/desafio-egenius/server/routes.js",
-		"/C/Jobs/desafio-egenius/server/config/seed.js",
-		"/C/Jobs/desafio-egenius/server/config/socketio.js",
-		"/C/Jobs/desafio-egenius/server/api/room/room.spec.js",
-		"/C/Jobs/desafio-egenius/client/app/room/room.controller.spec.js",
-		"/C/Jobs/desafio-egenius/client/app/room/rooms.jade",
-		"/C/Jobs/desafio-egenius/client/app/room/room.controller.js",
-		"/C/Jobs/desafio-egenius/server/api/room/room.controller.js",
-		"/C/Jobs/desafio-egenius/server/api/room/index.js",
-		"/C/Jobs/amil-mail-queue/client/index.html",
-		"/C/Jobs/desafio-egenius/client/app/main/main.controller.js",
-		"/C/Jobs/desafio-egenius/client/app/main/main.controller.spec.js",
-		"/C/Jobs/desafio-egenius/client/app/chat/chat.controller.js",
-		"/C/Jobs/desafio-egenius/server/api/chat/chat.controller.js",
-		"/C/Jobs/desafio-egenius/server/api/chat/index.js",
-		"/C/Jobs/desafio-egenius/Gruntfile.js",
-		"/C/Jobs/desafio-egenius/karma.conf.js",
-		"/C/Jobs/desafio-egenius/package.json",
-		"/C/Users/lvasco/AppData/Roaming/npm/node_modules/generator-angular-fullstack/package.json",
-		"/C/Users/lvasco/AppData/Roaming/npm/node_modules/yo/package.json",
-		"/C/Jobs/grupo-nps/src/gruponps/core/views.py",
-		"/C/Jobs/grupo-nps/src/gruponps/core/models.py",
-		"/C/Jobs/grupo-nps/src/gruponps/question/admin.py",
-		"/C/Jobs/grupo-nps/src/gruponps/urls.py",
-		"/C/Jobs/job-finders/src/jobfinders/jobs/models.py",
-		"/C/Jobs/grupo-nps/src/gruponps/question/test.py",
-		"/C/Jobs/grupo-nps/src/gruponps/question/models.py",
-		"/C/Jobs/grupo-nps/src/gruponps/templates/index.html",
-		"/C/Jobs/grupo-nps/src/gruponps/static/css/screen.less",
-		"/C/Users/lvasco/Desktop/urls.py",
-		"/C/Jobs/grupo-nps/src/gruponps/templates/upload.html",
-		"/C/Users/lvasco/Desktop/549170775521",
-		"/C/Users/lvasco/Desktop/config.xml",
-		"/C/Jobs/grupo-nps/src/gruponps/question/views.py",
-		"/C/Jobs/grupo-nps/packages/core/views.py",
-		"/C/Jobs/grupo-nps/packages/core/models.py",
-		"/C/Jobs/grupo-nps/packages/core/AES.py",
-		"/C/Jobs/grupo-nps/packages/question/admin.py",
-		"/C/Jobs/grupo-nps/packages/question/views.py",
-		"/C/Jobs/grupo-nps/packages/question/models.py",
-		"/C/Jobs/grupo-nps/packages/core/templatetags/extras.py",
-		"/C/Jobs/grupo-nps/packages/core/admin.py",
-		"/C/Jobs/grupo-nps/src/gruponps/static/js/domready.js",
-		"/C/Jobs/grupo-nps/src/gruponps/core/migrations/0003_auto__add_peso.py",
-		"/C/Jobs/grupo-nps/src/gruponps/core/admin.py",
-		"/C/Jobs/grupo-nps/src/gruponps/core/migrations/0010_auto_20150302_1633.py",
-		"/C/Jobs/grupo-nps/packages/README.txt",
-		"/C/Jobs/grupo-nps/src/gruponps/core/templatetags/extras.py",
-		"/C/Jobs/grupo-nps/packages/setup.py",
-		"/C/Jobs/grupo-nps/packages/dist/grupo-nps-0.1/setup.py",
-		"/C/Jobs/grupo-nps/src/gruponps/settings.py",
-		"/C/Jobs/grupo-nps/packages/dist/grupo-nps-0.1/README.txt",
-		"/C/Jobs/grupo-nps/src/gruponps/static/css/validationEngine.jquery.css",
-		"/C/Jobs/grupo-nps/src/gruponps/settings.py.old",
-		"/C/Jobs/consorcio-vw/ConsorcioVW.Web/Default.cshtml",
-		"/C/Jobs/consorcio-vw/ConsorcioVW.Web/favicon.ico",
-		"/C/Jobs/consorcio-vw/ConsorcioVW.Web/Web.config",
-		"/C/Jobs/consorcio-vw/ConsorcioVW.Web/_AppStart.cshtml",
-		"/C/Jobs/grupo-nps/src/gruponps/templates/base.html",
-		"/C/Jobs/consorcio-vw/ConsorcioVW.Web/packages.config",
-		"/C/Jobs/consorcio-vw/ConsorcioVW.Web/OConsorcio.cshtml",
-		"/C/Jobs/consorcio-vw/ConsorcioVW.Web/Planos.cshtml",
-		"/C/Jobs/consorcio-vw/ConsorcioVW.Web/_SiteLayout.cshtml",
-		"/C/Jobs/consorcio-vw/ConsorcioVW.Web/About.cshtml",
-		"/C/Jobs/consorcio-vw/ConsorcioVW.Web/Contact.cshtml",
-		"/C/Jobs/grupo-nps/src/gruponps/templates/sheet.html",
-		"/C/Jobs/grupo-nps/src/gruponps/templates/obrigado.html",
-		"/C/Jobs/grupo-nps/src/gruponps/templates/respondido.html",
-		"/C/Jobs/grupo-nps/src/gruponps/static/js/charts.js",
-		"/C/Jobs/planosamilrj.amil.com.br/index.php",
-		"/C/Jobs/consorcio-vw/frontend/util/css/screen.less",
-		"/C/Jobs/simposio_oncologia/src/simposio_oncologia/simposio_oncologia/urls.py",
-		"/C/Jobs/health-4-pet/src/health4pet/settings.py",
-		"/C/Jobs/simposio_oncologia/src/simposio_oncologia/simposio_oncologia/settings.py",
-		"/C/Users/lvasco/Desktop/settings.py",
-		"/C/Users/lvasco/Desktop/index.php",
-		"/C/Users/lvasco/Documents/settings.py",
-		"/C/Jobs/grupo-nps/src/gruponps/templates/report.html",
-		"/C/Jobs/grupo-nps/src/gruponps/core/AES.py",
-		"/C/Jobs/grupo-nps/src/gruponps/question/migrations/0008_answers_beneficiary.py",
-		"/C/Jobs/grupo-nps/env/Lib/site-packages/crypto/pct_warnings.py",
-		"/C/Jobs/amil-mam/src/amilmam/common/views.py",
-		"/C/Jobs/grupo-nps/src/gruponps/question/migrations/0007_auto_20150302_1629.py",
-		"/C/Jobs/grupo-nps/src/gruponps/core/templatetags/__init__.py",
-		"/C/Jobs/grupo-nps/src/gruponps/question/migrations/0001_initial.py",
-		"/C/Jobs/grupo-nps/src/gruponps/question/__init__.py",
-		"/C/Jobs/grupo-nps/src/gruponps/core/migrations/0009_auto_20150227_1552.py",
-		"/C/Jobs/grupo-nps/src/gruponps/core/migrations/0008_auto_20150227_1447.py",
-		"/C/Jobs/grupo-nps/src/gruponps/core/migrations/0007_auto_20150227_1441.py",
-		"/C/Jobs/grupo-nps/env/Lib/site-packages/django/http/response.py",
-		"/C/Jobs/grupo-nps/src/gruponps/templates/admin/change_list.html",
-		"/C/Jobs/grupo-nps/src/gruponps/templates/admin/index.html",
-		"/C/Jobs/grupo-nps/src/gruponps/templates/sheet",
-		"/C/Jobs/foodpass/ecommerce/app/design/frontend/base/default/template/tax/checkout/grandtotal.phtml",
-		"/C/Jobs/grupo-nps/.gitignore",
-		"/C/Jobs/grupo-nps/src/gruponps/core/migrations/0002_enterprisegroup_types.py",
-		"/C/Jobs/grupo-nps/src/gruponps/core/__init__.py",
-		"/C/Jobs/mr/ecommerce/app/code/local/Productslist/Model/Mysql4/Productslist/Collection.php",
-		"/C/Jobs/mr/ecommerce/app/code/local/Productslist/Model/Productslist/Collection.php",
-		"/C/Jobs/mr/ecommerce/app/code/local/Productslist/Model/Collection.php"
+		"/D/Jobs/desafio-egenius/server/config/local.env.sample.js",
+		"/D/Jobs/desafio-egenius/client/bower_components/angular-mocks/ngMock.js",
+		"/D/Jobs/desafio-egenius/server/api/room/index.js",
+		"/D/Jobs/desafio-egenius/server/api/room/room.controller.js",
+		"/D/Jobs/desafio-egenius/server/routes.js",
+		"/D/Jobs/desafio-egenius/client/components/navbar/navbar.controller.js",
+		"/D/Jobs/desafio-egenius/client/.htaccess",
+		"/D/Jobs/desafio-egenius/server/api/room/room.socket.js",
+		"/D/Jobs/desafio-egenius/server/api/room/room.spec.js",
+		"/D/Jobs/desafio-egenius/server/api/chat.spec.js",
+		"/D/Jobs/desafio-egenius/server/api/thing/thing.controller.js"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
 		"height": 0.0,
 		"where_history":
 		[
-			"C:\\Jobs\\health-4-pet\\env\\Lib\\site-packages\\django",
-			"C:\\Jobs\\marketing-intelligence\\src\\marketingintelligence"
+			"D:\\Jobs\\desafio-egenius"
 		]
 	},
 	"find_state":
@@ -731,134 +132,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"jscroll",
-			"jscol",
-			"404",
-			"console",
-			".",
-			"token",
-			"request",
-			"save",
-			"unit",
-			"single",
-			"/",
-			"input",
-			"Beneficiary",
-			"float",
-			"AUTHENTICATION_BACKENDS",
-			"BeneficiarySheetView",
-			"radius",
-			"ui-slider-tooltip",
-			"static",
-			"content-complement-questions",
-			"active",
-			"act	",
-			"mime",
-			"filterForm",
-			"//www.performance.desafiossaudaveis.com/static/",
-			"03",
-			"timezon",
-			"FieldListFilter",
-			"envio-",
-			"send-d",
-			".success",
-			".sucess",
-			"div.success",
-			"success",
-			"updateDocumentForm",
-			"estado",
-			"raca",
-			"estado",
-			"menu-mobile",
-			"tooltip",
-			"button",
-			"bt",
-			"uploader ",
-			"DATETIME_FORMAT",
-			"contain",
-			"bgfit",
-			"data-bgfit",
-			"slider",
-			".slider",
-			"search",
-			"}\n",
-			"SearchQuerySet",
-			"template",
-			"smart",
-			"ClubList",
-			"slug",
-			"ContactInteractionView",
-			"ContactPut",
-			"display",
-			"54c2e8",
-			"servi",
-			"ClubList",
-			"club_api",
-			"group",
-			"group_slug",
-			"query",
-			"iframe",
-			"smart_unicode",
-			"HttpResponse",
-			"cors",
-			"CARE_TYPE",
-			"care",
-			"HTMLField",
-			"unse",
-			"unsemantic",
-			"openMobileMenu",
-			"mobileMenu",
-			"tracker",
-			"Tracker",
-			"MedicalNetworkTags",
-			"medical_net",
-			"MedicalNetworkTags",
-			"hide-on-tablet hide-on-mobile",
-			"description-landing-form",
-			"keyword",
-			"landings",
-			"CreateAPIView",
-			"submit",
-			"newData",
-			"phones",
-			"f56076",
-			"f56076 ",
-			"muda",
-			"/border_dotted_plan_04",
-			"/border_dotted_plan_04@2x",
-			"result",
-			"cell-catego]",
-			"padding",
-			"loadMore",
-			"Carregar mais resultados",
-			"loadMoreResults",
-			"api_endpoint_url",
-			"loadmore",
-			"loadMore",
-			"show more",
-			"next_page",
-			"medical_network",
-			"SearchIndex",
-			"ModelSearchIndex",
-			"MySearchIndex",
-			"SearchIndex",
-			"smart",
-			"decimal",
-			"text",
-			"smart_unicode",
-			"ContactPut",
-			"mobileMenu",
-			"lightGray2",
-			"hide-on",
-			"hide-on-desktop",
-			"hide-on-desktop ",
-			"hide-on-desktop",
-			"hide-on-desktop ",
-			"hide",
-			"hide-on-desktop",
-			".hide-on-desktop",
-			"rypt",
-			"line-height: 0;"
+			"Romm",
+			"NewRequestController",
+			"4"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -866,9 +142,8 @@
 		"regex": false,
 		"replace_history":
 		[
-			"{% static '",
-			"display:block;",
-			"Select the date range"
+			"Room",
+			"RommController"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -879,50 +154,107 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "client/app/chat/chat.controller.js",
+					"file": "client/app/room/room.controller.spec.js",
 					"settings":
 					{
-						"buffer_size": 1126,
+						"buffer_size": 1079,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								775,
-								775
+								704,
+								704
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 120.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "client/app/chat/chat.jade",
+					"file": "package.json",
 					"settings":
 					{
-						"buffer_size": 970,
+						"buffer_size": 2963,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								289,
-								289
+								2140,
+								2140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/app/chat/chat.controller.spec.js",
+					"settings":
+					{
+						"buffer_size": 1582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								676,
+								676
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 375.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/app/room/rooms.jade",
+					"settings":
+					{
+						"buffer_size": 752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								483,
+								483
 							]
 						],
 						"settings":
@@ -938,51 +270,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "client/app/chat/chat.less",
+					"buffer": 4,
+					"file": "client/app/chat/chat.controller.js",
 					"settings":
 					{
-						"buffer_size": 339,
+						"buffer_size": 1126,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								193,
-								193
+								713,
+								713
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "client/app/app.less",
-					"settings":
-					{
-						"buffer_size": 570,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								99,
-								99
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -999,7 +305,7 @@
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 36.0
 	},
 	"layout":
 	{
@@ -1039,12 +345,8 @@
 		"selected_items":
 		[
 			[
-				"karma",
-				"karma.conf.js"
-			],
-			[
-				"room",
-				"client\\app\\room\\room.controller.spec.js"
+				"mock",
+				"client\\bower_components\\angular-mocks\\ngMock.js"
 			]
 		],
 		"width": 0.0
@@ -1061,6 +363,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 330.0,
+	"side_bar_width": 274.0,
 	"status_bar_visible": true
 }

@@ -8,7 +8,7 @@ This project was generated with the [Angular Full-Stack Generator](https://githu
 * [Getting Started](#getting-started)
 * [Prerequisites] (#prerequisites)
 * [Developing] (#developing)
-* [Build & development] (#build-&-development)
+* [Build & development] (#build--development)
 * [Testing] (#testing)
 
 ## Getting Started
